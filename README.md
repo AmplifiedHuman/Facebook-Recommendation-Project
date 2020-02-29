@@ -1,4 +1,4 @@
-# Facebook-Recommendation-Project
+# Friend-Recommendation-Project
 #### COMP10050 Software Engineering Project 1, Assignment 1
 > A C program to suggest user based on friends of others
 
